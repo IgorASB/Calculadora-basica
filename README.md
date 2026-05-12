@@ -60,7 +60,7 @@ git clone https://github.com/IgorASB/Calculadora-basica.git
 cd Calculadora-basica
 
 # 2. Compile
-gcc calculadora.c -o calculadora
+gcc calculadorabasica.c -o calculadora
 
 # 3. Execute
 ./calculadora       # Linux/macOS
@@ -85,7 +85,7 @@ calculadora.exe     # Windows
 
 ```
 Calculadora-basica/
-├── calculadora.c   # Código-fonte principal
+├── calculadorabasica.c   # Código-fonte principal
 └── README.md
 ```
 
